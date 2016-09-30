@@ -5,7 +5,8 @@
   "dependencies": {
       "express": "3.0.0",
       "socket.io": "latest",
-      "underscore": "latest"
+      "underscore": "latest",
+      "jquery": "^2.1.4"
   },
   "author": "",
   "license": "BSD",
